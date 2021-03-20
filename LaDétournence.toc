@@ -1,0 +1,7 @@
+## Interface: 90005
+## Title: LaDétournence
+## Notes: Créé et met à jours une macro pour que le Détournement cible automatiquement le tank
+## Author: Sowce
+## Version: 1.0
+
+main.lua
